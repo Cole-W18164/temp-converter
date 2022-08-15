@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T22:02:15.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="FwE0_yqhvRdjmeezPvbH" type="github"><diagram id="WkWmI_RFdMYyZ_VQtdmu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-15T01:50:07.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XXVEgaK43DaVW2cWwr3h" version="20.2.3" type="github">
+  <diagram id="WkWmI_RFdMYyZ_VQtdmu" name="Page-1">
+    <mxGraphModel dx="780" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kl30HeVojYjsorcTQMEU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFF2CC;strokeColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FF33FF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-12" value="To Celsius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-13" value="To Fahrenheit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="255" y="225" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Type in temperature below and then push one of the buttons&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-15" value="&lt;h1&gt;Temperature Convertor&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Conversion will appear here...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="105" y="280" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Help&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="245" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-18" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Calculation History&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-20" value="If user input is invalid, this field will change to a pink color and the text above will change to an error message" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.942;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kl30HeVojYjsorcTQMEU-20" target="kl30HeVojYjsorcTQMEU-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="sourcePoint" />
+            <mxPoint x="430" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-23" value="Enter a number in the box and then push one of the buttons to convert either degrees Celsius (degC) or degrees Fahrenheit (degF)&lt;br&gt;&lt;br&gt;Note the number you enter should be more than absolute" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="210" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB366;strokeColor=#67AB9F;" vertex="1" parent="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry x="230" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB366;" vertex="1" parent="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry x="210" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFB366;" vertex="1" parent="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry x="190" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-31" value="Temperature conversion calculator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry x="-10" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Help / Information&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1" vertex="1" parent="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry x="10" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-36" value="Dismiss" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#67AB9F;fillColor=#E6E6E6;" vertex="1" parent="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry x="70" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.12;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kl30HeVojYjsorcTQMEU-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="350" as="sourcePoint" />
+            <mxPoint x="415" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kl30HeVojYjsorcTQMEU-35" value="Temperature conversion calculator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
